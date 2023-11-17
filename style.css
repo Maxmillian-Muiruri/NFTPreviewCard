@@ -89,6 +89,7 @@ transform: translate(-50%, -50%);
   align-items: center;
   color: hsl(215, 51%, 70%);
   font-size: 14px;
+  display: flex;
 }
 
 .avator {
